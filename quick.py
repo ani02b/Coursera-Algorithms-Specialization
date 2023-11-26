@@ -114,7 +114,7 @@ def QS_count(a,l,r, pivot = ['first', 'last', 'median']):
     return count
  
 if __name__ == '__main__':
-    with open('C:\\Users\\KIIT\\Programs\\3rd Year\\Xtra\\quick_text.txt') as f:
+    with open('quick_text.txt') as f:
         a = [int(x) for x in f]
     # 1. 'first' to use the 1st element as pivot.
     # 2. 'last' to use the last element as pivot
