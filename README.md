@@ -9,3 +9,4 @@
 2. <a href="https://github.com/ani02b/Coursera-Algorithms-Specialization/blob/main/dijkstra.cpp">Dijkstra</a>
 3. <a href="https://github.com/ani02b/Coursera-Algorithms-Specialization/blob/main/median.cpp">Median</a>
 4. <a href="https://github.com/ani02b/Coursera-Algorithms-Specialization/blob/main/twosum.py">Two Sum Problem</a>
+## Course 3
